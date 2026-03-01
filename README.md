@@ -1,6 +1,6 @@
 # ASTU Smart Complaint & Issue Tracking System
 
-![ASTU Smart Dashboard](./screenshot.png)
+![ASTU Smart Dashboard](./screenshot.png.png)
 
 A world-class, premium full-stack university complaint tracking system built with React, Node.js, Express, MongoDB, and professional AI features. This application boasts a completely overhauled, high-end "glassmorphic" UI system and includes a **RAG (Retrieval-Augmented Generation)** chatbot for intelligent campus support.
 
