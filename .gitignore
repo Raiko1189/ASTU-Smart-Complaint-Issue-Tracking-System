@@ -11,8 +11,6 @@ build/
 .next/
 
 # Environment files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -39,3 +37,4 @@ yarn-error.log*
 uploads/*
 !uploads/.gitkeep
 tmp/
+config.bat
