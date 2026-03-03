@@ -30,7 +30,7 @@ A world-class, premium full-stack university complaint tracking system built wit
 ### 1. Install Dependencies
 ```bash
 npm install # Root
-npm run install:all # Installs dependencies for both Client & Server
+npm run install:all # Installs dependencies for both frontend & backend
 ```
 
 ### 2. Environment Variables
